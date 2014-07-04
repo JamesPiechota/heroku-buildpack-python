@@ -4,7 +4,7 @@
 
 # The location of the pre-compiled libffi binary.
 #VENDORED_LIBFFI="https://s3.amazonaws.com/rt-uploads/libffi-3.0.tgz"
-VENDORED_LIBFFI="https://github.com/JamesPiechota/heroku-buildpack-python/blob/master/vendor/libffi-3.0.0.tar.gz"
+VENDORED_LIBFFI="https://github.com/JamesPiechota/heroku-buildpack-python/raw/master/vendor/libffi-3.0.0.tar.gz"
 VENDORED_PATH=/app/vendor/libffi-3.0
 
 # Syntax sugar.
